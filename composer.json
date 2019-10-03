@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Signifyd_Connect",
+    "name": "openmage-module-fostering\/signifyd_connect",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Signifyd protects e-commerce merchants from fraudulent buyers.",
     "authors": [
