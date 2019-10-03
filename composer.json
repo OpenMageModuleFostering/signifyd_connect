@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Signifyd_Connect",
+    "name": "OpenMageModuleFostering\/Signifyd_Connect",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Signifyd protects e-commerce merchants from fraudulent buyers.",
     "authors": [
-    {
-        "name": "signifyd",
-        "email": "manelis@signifyd.com"
-    }
-],
+        {
+            "name": "signifyd",
+            "email": "manelis@signifyd.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
